@@ -14,10 +14,10 @@ from collections import namedtuple
 
 SERIES = 'windowlicker'
 
-__version__ = '4.2.0rc3'
+__version__ = '4.2.0a1'
 __author__ = 'Ask Solem'
-__contact__ = 'ask@celeryproject.org'
-__homepage__ = 'http://celeryproject.org'
+__contact__ = 'papercrane@reversefold.com'
+__homepage__ = 'https://github.com/reversefold/celery/'
 __docformat__ = 'restructuredtext'
 __keywords__ = 'task job queue distributed messaging actor'
 
